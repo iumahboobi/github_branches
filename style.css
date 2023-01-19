@@ -3,6 +3,7 @@ body {
 }
 h1 {
   font-size: 48px;
+  background-color: blue;
 }
 p {
   font-size: 36px;
